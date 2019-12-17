@@ -2,10 +2,10 @@
 
 Built my own **generic neural network library** that takes 5 parameters as follows:
 1. config.txt
-2. training_data_features(one hot encoded)
-3. training_data_targetValue(one hot encoded)
-4. testing_data_features(one hot encoded)
-5. testing_data_targetValue(one hot encoded)
+2. training_data_features - (one hot encoded)
+3. training_data_targetValue - (one hot encoded)
+4. testing_data_features - (one hot encoded)
+5. testing_data_targetValue - (one hot encoded)
 
 It outputs the accuracy on test data and also plots the confusion matrix to give a visual representation of the results of classifier. <br/>
 
